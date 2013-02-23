@@ -1,4 +1,4 @@
-# Largest Palindrome Product
+# Largest palindrome product
 
 # Heuristic:
 # 100000a + 10000b + 1000c + 100c + 10b + a

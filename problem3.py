@@ -13,3 +13,4 @@ while curr_num < num:
 prime_nums.append(num)
 print prime_nums
 print num
+
